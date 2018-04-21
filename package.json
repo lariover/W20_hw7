@@ -1,0 +1,19 @@
+{
+  "name": "homework7",
+  "version": "1.0.0",
+  "description": "The implementation of the 7th homework",
+  "main": "init.js",
+  "scripts": {
+    "test": "start:test"
+  },
+  "keywords": [
+    "rest",
+    "paggination"
+  ],
+  "author": "Veronika Larionova",
+  "license": "MIT",
+  "dependencies": {
+    "finalhandler": "^1.1.1",
+    "router": "^1.3.2"
+  }
+}
